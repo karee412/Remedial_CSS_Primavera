@@ -46,7 +46,6 @@ footer {
   padding: 10px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 600px) {
   .flex-container {
     flex-direction: column;
